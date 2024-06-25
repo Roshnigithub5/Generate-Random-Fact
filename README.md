@@ -17,7 +17,7 @@ This project uses HTML, CSS, and JavaScript to display random cat facts fetched 
 
 ## How to Use
 
-1. Clone the repository: `git clone <repo_url>`
+1. Clone the repository: `git clone (https://github.com/Roshnigithub5/Generate-Random-Fact.git)`
 2. Open `index.html` in your web browser.
 3. Enjoy learning random cat facts!
 
